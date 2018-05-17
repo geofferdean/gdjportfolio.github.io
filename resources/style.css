@@ -448,9 +448,7 @@ nav a{
 
 
 .parallax{
-	background-image: url('https://lh3.googleusercontent.com/zvgsE0K0nWu6WeYWJkrY5-OUoinbYGqR11YYsUCqDzvrSpxkaiKmwcDs2G2QCgU1BoQoLeFpLkmwSqSXsPTOcIxbZgf9n_O6RULC8lYHyjpOh1knDzXMvmxE7po5rnVmFMu1ZrvC6g=w2400');
-	/* background-image: url('https://lh3.googleusercontent.com/tKpVWT4-79Zy-NHZPWKmRyz7orhOC4jqQNGjR0hn0-PgbQ6K7PTB0oPmIuJXygnVdZ5EgOJjFcwpJF7USQkWpHhIOLE1uH7ASx9IfQ6F8lCUK7tHB8RILfKuCFNmhYerjKZ1n1U9Ig=w2400'); */
-	background-image: url('/Users/geoffreyjensen/Desktop/parallaxbackground.png');
+	background-image: url('https://geofferdean.github.io/gdjportfolio.github.io/resources/parallaxbackground.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
