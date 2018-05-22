@@ -19,7 +19,7 @@ body {
 }
 h1{
 	font-size: 7rem;
-	font-family: "itc avant garde gothic lt";
+	font-family: 'ITC Avant Garde Gothic W01 Bd';
 	color: #000000;
 	font-weight: bold;
 	text-align: center;
@@ -27,7 +27,7 @@ h1{
 	width: 50%;
 }
 h2{
-	font-family: "itc avant garde gothic lt";
+	font-family: 'ITC Avant Garde Gothic W01 Bd';
 	font-weight: bold;
 
 	font-size: 4rem;
@@ -80,12 +80,18 @@ nav ul li{
 }
 @font-face {
     font-family: 'itc_avant_garde_gothic_ltbold';
-    src: url('https://geofferdean.github.io/gdjportfolio.github.io/resources/itc_avant_garde_gothic_lt_bold-webfont.woff2') format('woff2'),
-         url('https://geofferdean.github.io/gdjportfolio.github.io/resources/itc_avant_garde_gothic_lt_bold-webfont.woff') format('woff');
+    src: url('http://geoffreydean.io/itc_avant_garde_gothic_lt_bold-webfont.woff2') format('woff2'),
+         url('http://geoffreydean.io/itc_avant_garde_gothic_lt_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=e196555d-9552-4655-bc4e-01d457ec365a");
+    @font-face{
+        font-family:"ITC Avant Garde Gothic W01 Bd";
+        src:url("Fonts/7882e98f-91dc-4562-9ae7-89142461ea7d.eot?#iefix");
+        src:url("Fonts/7882e98f-91dc-4562-9ae7-89142461ea7d.eot?#iefix") format("eot"),url("Fonts/4cadb55f-822a-4a35-8918-becfc5a866a3.woff2") format("woff2"),url("Fonts/af007af5-dcfa-465a-a278-47ab3eb9a589.woff") format("woff"),url("Fonts/9a9365bb-bc37-4768-8d00-df0bdf405665.ttf") format("truetype"),url("Fonts/4443cc42-374b-40e5-968c-b29f549f0835.svg#4443cc42-374b-40e5-968c-b29f549f0835") format("svg");
+    }
 .portrait{
 	padding-top: 25.5em;
 	/* margin-top: 40em; */
@@ -204,7 +210,7 @@ nav ul li{
 	/* border: 1px solid red; */
 }
 .row-item h2{
-	font-family: 'itc avant garde gothic lt';
+	font-family: 'ITC Avant Garde Gothic W01 Bd';
 	font-size: 7em;
 	color: rgba(5,32,44,0.95);
 	font-weight: bold;
@@ -234,7 +240,7 @@ nav ul li{
 }
 .section-headline h1{
 	font-size: 8em;
-	font-family: 'itc avant garde gothic lt';
+	font-family: 'ITC Avant Garde Gothic W01 Bd';
 	/* color: rgba(5,32,44,0.95); */
 	color: rgba(250,250,250, 0.8);
 	font-weight: bold;
@@ -958,7 +964,7 @@ margin-bottom: 0!important;
 	font-size: 2.4rem;
 }
 .banner_contact h2{
-	font-family: 'itc avant garde gothic lt';
+	font-family: 'ITC Avant Garde Gothic W01 Bd';
 	font-size: 6em;
 	color: rgba(255,255,255,0.9);
 	font-weight: bold;
